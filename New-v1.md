@@ -1,10 +1,10 @@
 {
 "Title": "❌  گوشیتو پر از فیلترشکن نکن  ❌",
 "Description": "- از این کانال فیلترشکن مخصوص دانلود کن که توی قطعی هم وصل میشه حتی اینستارو سریع باز میکنه ، خودمون با اینجا وصلیم 👇🏻",
-"Link": "tg://join?invite=uVnfu2YRc1NmNzFk",
+"Link": "tg://join?invite=U-iAhFfN3u03ZTU0",
 "ColorWave": "#18FFFF",
-"Color": "#18FFFF",
-"ColorWaveTwo": "#00B0FF",
+"Color": "#7C4DFF",
+"ColorWaveTwo": "#651FFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -18,7 +18,7 @@
 "MessageID": "0020276527",
 "ShowTime": "3",
 "Button": " دانلود فیلترشکن بدون قطعی ",
-"ButtonCancell": " لفو ",
+"ButtonCancell": " نمیخوام ",
 "Closure": "true",
 "Show": "on"
 }
